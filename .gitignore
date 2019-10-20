@@ -1,0 +1,4 @@
+settings.py
+__pycache__/
+ERP_CYM/
+*.pyc
